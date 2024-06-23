@@ -2,8 +2,6 @@
 
 This is a simple CRUD app made to test the Fast API Framework
 
-At the moment it only contains the POST and GET methods
-
 **Requirements**
 
 Python version >3.10
