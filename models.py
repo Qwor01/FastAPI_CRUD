@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String
 from .database import Base
 
+#Generates a database model
 class Country(Base):
     __tablename__ = "countries"
 

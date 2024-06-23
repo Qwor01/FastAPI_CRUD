@@ -1,5 +1,7 @@
 from pydantic import BaseModel
 
+
+#Defines the schema of the ORM
 class ItemBase(BaseModel):
     name: str
 
